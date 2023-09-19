@@ -24,7 +24,7 @@ public class Test {
         }
 
         atm.ejectCard();
-        System.out.println("");
+        System.out.println("------");
 
         atm.insertCard(card1);
         atm.showUserInfo();
